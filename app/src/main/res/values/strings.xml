@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZuevMD_PR31_v01</string>
+    <string name="text1">Введите ваш логин и пароль</string>
+    <string name="text2">Логин</string>
+    <string name="text3">Пароль</string>
+    <string name="text4">Войти</string>
+<string name="text5">Регистрация</string>
+<string name="text6">Кредитный калькулятор</string>
+    <string name="text7">Сколько вам нужно</string>
+<string name="text8">Введите срок кредита</string>
+    <string name="text9">РАССЧИТАТЬ</string>
+<string name="text10">Ежемесячный платёж</string>
+    <string name="text11">от 30000</string>
+</resources>
